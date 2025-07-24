@@ -1,7 +1,7 @@
 Amazon Products Sales Dashboard - Power BI Project
 
 Overview
-This Power BI dashboard provides a comprehensive Sales Analysis of Amazon Products, visualizing trends, performance, and insights using data sourced from Kaggle. The dashboard is interactive and includes slicers for filtering by Product Category and Quarter, enabling dynamic exploration of sales metrics.
+This Power BI dashboard provides a comprehensive Sales Analysis of Amazon Products, visualizing trends, performance, and insights . The dashboard is interactive and includes slicers for filtering by Product Category and Quarter, enabling dynamic exploration of sales metrics.
 
 
 Project Highlights
@@ -32,7 +32,7 @@ Quarter
 
 Dataset Source
 
-Kaggle Dataset: Amazon Products Sales Dataset
+Dataset: Amazon Products Sales Dataset
 https://drive.google.com/drive/folders/1ZYSOUAGpZKqzBTV9curE9F_lviO0kGUK
 
 
